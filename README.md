@@ -26,4 +26,4 @@ Run the below command in your Windows/Mac OS.
   pip install -r requirements.txt
 ```
     
-Use ```hand_detection_webcam.py``` to test your model in real-time environment using Mediapipe Technology
+Use ```app.py``` to test your model in real-time environment using Mediapipe Technology
